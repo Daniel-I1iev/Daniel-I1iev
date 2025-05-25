@@ -36,9 +36,8 @@ A mobile app built with React Native and Firebase designed to help users track a
 
 ---
 
-## 🤝 Let’s Connect!
-
-I’m always open to chat, collaborate, or just talk tech and games. Feel free to reach out if you want to connect!
+## 🤝 Open to Professional Opportunities & Collaboration
+I welcome connections regarding professional collaborations, project work, and discussions on advancements in my field of expertise. Feel free to reach out if you believe our work or interests align.
 
 ---
 
