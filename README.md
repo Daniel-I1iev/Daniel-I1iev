@@ -11,8 +11,6 @@ Almost a graduate—passionate about building things that matter!
 - 💻 Main skills: **C#**, **JavaScript**, **C/C++**, **React**, **Machine Learning**
 - 🩺 Currently building a **Medical Tracker App** with React Native + Firebase
 - 🤖 Tech enthusiast, especially interested in new hardware and software in the PC gaming world
-- 🕹️ Casual and story-driven gamer, always up for a new adventure
-- 🏋️‍♂️ Love going to the gym, hanging out with friends, and meeting new people
 - 💡 Always looking to work on my own ideas and side projects
 
 ---
