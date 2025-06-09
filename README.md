@@ -32,11 +32,9 @@ Almost a graduate—passionate about building things that matter!
 ### Medical Tracker App
 A mobile app built with React Native and Firebase designed to help users track and manage their medical information easily and securely.
 
----
 
 **GitHub Repository:** [MEDPAL-TrackerApp](https://github.com/Daniel-I1iev/MEDPAL-TrackerApp)
 
----
 
 ---
 
