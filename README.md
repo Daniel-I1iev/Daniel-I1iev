@@ -2,12 +2,10 @@
 
 🎓 **Education | Software and Computer Engineering**  
 
-
 ---
 
 ## 🚀 About Me
 
-- 🎓 Bachelor’s degree in Software and Computer Engineering
 - 💻 Main skills: **C#**, **JavaScript**, **C/C++**, **React**, **Machine Learning**
 - 🩺 Currently building a **Medical Tracker App** with React Native + Firebase
 - 🤖 Tech enthusiast, especially interested in new hardware and software in the PC gaming world
