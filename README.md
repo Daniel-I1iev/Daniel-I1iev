@@ -1,7 +1,7 @@
 # Hi, I'm Daniel Iliev 👋
 
-🎓 **Student | Software and Computer Engineering**  
-Almost a graduate—passionate about building things that matter!
+🎓 **Education | Software and Computer Engineering**  
+
 
 ---
 
